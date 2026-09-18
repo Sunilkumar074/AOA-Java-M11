@@ -1,6 +1,6 @@
 # EX 1B – Factorial of a Number
 
-## DATE: 29.07.2026
+## DATE: 28.08.2026
 
 ### Developed By: SUNIL KUMAR P.B.
 
